@@ -1,0 +1,1 @@
+screen.colormode(255)

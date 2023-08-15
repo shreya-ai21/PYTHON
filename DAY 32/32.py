@@ -16,7 +16,7 @@ day = now.weekday()
 bday = dt.datetime(year=2003, month=7, day=15)
 
 with open("E:/Shreya Shastry/UDEMY/PYTHON/DAY 32/quotes.txt") as file:
-    global quotes
+
     quotes = file.readlines()
 
 msg = {

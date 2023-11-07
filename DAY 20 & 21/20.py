@@ -17,7 +17,7 @@ score=Scoreboard()
 screen.listen()
 screen.onkey(snake.up,key='Up')
 screen.onkey(snake.down,key='Down')
-screen.onkey(snake.left,key='left')
+screen.onkey(snake.left,key='Left')
 screen.onkey(snake.right,key='Right')
 game_end=False
 
